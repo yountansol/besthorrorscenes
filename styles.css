@@ -1,0 +1,42 @@
+.main-content{
+    background-color:#e7493e;
+}
+.title-director{
+    margin:23px 20px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.title{
+    font-size:25px;
+    color:white;
+    font-weight: 500;
+}
+.director{
+    font-size: 12px;
+    color: white;
+    font-weight: 1000;
+}
+
+.scene{
+    display:flex;
+    justify-content:center;
+}
+.scene img{
+    width:570px;
+    height: 320px;
+}
+
+.like-dislike{
+    display:flex;
+    justify-content:flex-end;
+    
+    color:white;
+    font-weight:700;
+    font-size:13px;
+    padding: 23px 20px;
+
+}
+.like-dislike i{
+    opacity:0.8;
+}
